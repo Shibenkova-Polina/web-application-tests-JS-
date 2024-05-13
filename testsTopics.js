@@ -196,8 +196,8 @@ var testsTopics = {
             {
                 text: 'Как выделить текст курсивом?',
                 answers: [
-                    { text: 'hr', isCorrect: true },
-                    { text: 'em', isCorrect: false },
+                    { text: 'hr', isCorrect: false },
+                    { text: 'em', isCorrect: true },
                     { text: 'p', isCorrect: false },
                     { text: 'a', isCorrect: false }
                 ]
